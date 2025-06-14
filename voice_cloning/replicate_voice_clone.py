@@ -12,5 +12,3 @@ clone_output = replicate.run(
 
 voice_id = clone_output["voice_id"]
 print("Cloned voice ID:", voice_id)
-
-# Open up python env: python3 -m venv .venv && source .venv/bin/activate
